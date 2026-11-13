@@ -257,3 +257,5 @@ The project intentionally keeps its runtime surface small. When adding a provide
 ## Licence
 
 PromptCraft is released under the MIT Licence. See [LICENSE](LICENSE) for the complete text.
+
+<!-- Watashi wa Watashi sore dake-->
