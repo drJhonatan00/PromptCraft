@@ -1,6 +1,10 @@
+<div align="center">
+  
 # PromptCraft
 
 PromptCraft is a small, dependency-light Ruby library and command-line interface for orchestrating AI agents with a fluent, block-based DSL. It lets you compose prompts, preserve execution context, run bounded autonomous agents and connect to OpenAI-compatible chat-completion endpoints without hiding the control flow behind a large framework.
+
+</div>
 
 The project is deliberately transparent: a workflow is ordinary Ruby, each step is inspectable, and every execution produces a structured `Context` containing input, named results and history.
 
